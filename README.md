@@ -1,3 +1,2 @@
-# Zenn CLI
-
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+# This Repository
+This repository is gengen0719 tech-blog repository.

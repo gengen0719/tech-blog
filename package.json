@@ -9,7 +9,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "@qiita/qiita-cli": "^1.7.0"
+    "@qiita/qiita-cli": "^1.10.0"
   },
   "dependencies": {
     "zenn-cli": "^0.2.11"
